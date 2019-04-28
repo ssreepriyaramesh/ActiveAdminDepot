@@ -6,7 +6,7 @@ Featured Information:
 - A test base class has been created for both the page objects and the test classes.
 - For each web page, a page object class has been created.
 - These tests are designed to be cross browser compatible. Change the browserType parameter in the TestNG.xml. 
-- As well the code is written to accommodate both Chrome and Firefox browsers.
+- As well as the code is written to accommodate both Chrome and Firefox browsers.
 - Log generation is accomplished with log4j.
 - Test reports are generated using TestNG reports.
 - The failure screenshots are captured using custom soft assert.
